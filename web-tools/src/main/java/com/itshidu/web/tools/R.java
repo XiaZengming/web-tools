@@ -1,7 +1,11 @@
 package com.itshidu.web.tools;
 
 import java.util.HashMap;
-
+/**
+ * Result for ajax
+ * @author Master.Xia
+ *
+ */
 public class R extends HashMap<String, Object> {
 	
 	public static R of() {
